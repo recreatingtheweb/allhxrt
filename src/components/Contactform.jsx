@@ -2,11 +2,7 @@ import React from "react";
 
 function Contactform(){
 
-    // <form name="contact-form" netlify netlify-honeypot="bot-field" hidden>
-    //   <input type="text" name="name" />
-    //   <input type="email" name="email" />
-    //   <textarea name="message"></textarea>
-    // </form>
+    
 
     return <div>
 
